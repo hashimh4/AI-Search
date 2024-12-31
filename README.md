@@ -3,4 +3,4 @@
 
 Enhancement of search algorithms (depth first search and A* search) for improved performance.
 
-_Disclaimer: Copying or redistributing any part of this work without permission is prohibited._
+_Disclaimer: This work is for reference only. Copying any part of this work is prohibited._
